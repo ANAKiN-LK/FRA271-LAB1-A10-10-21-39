@@ -1,0 +1,8 @@
+rtGetInf.c.o: \
+ C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rtGetInf.c \
+ C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rtwtypes.h \
+ C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rtGetInf.h \
+ C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h
+C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rtwtypes.h:
+C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rtGetInf.h:
+C:/Users/Acer/Downloads/FRA271_Lab1_Sensors-main/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h:
